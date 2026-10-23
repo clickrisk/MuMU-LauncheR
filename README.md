@@ -71,21 +71,7 @@ If you run more than a handful of MuMuPlayer instances, you know the pain: open 
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center"><img src="docs/screenshots/main-dark.png" width="300"><br><sub>Main window, dark theme</sub></td>
-    <td align="center"><img src="docs/screenshots/main-light.png" width="300"><br><sub>Light theme</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/screenshots/notes-stickers.png" width="300"><br><sub>Color notes and stickers</sub></td>
-    <td align="center"><img src="docs/screenshots/bulk-config.png" width="300"><br><sub>Bulk config for all profiles</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/screenshots/search-sections.png" width="300"><br><sub>Search and ON / ALL sections</sub></td>
-    <td align="center"><img src="docs/screenshots/languages.png" width="300"><br><sub>16 languages</sub></td>
-  </tr>
-</table>
-
+<table> <tr> <td align="center"><img src="docs/screenshots/main-dark.png" width="300"><br><sub>Главное окно, тёмная тема</sub></td> <td align="center"><img src="docs/screenshots/main-light.png" width="300"><br><sub>Светлая тема</sub></td> </tr> <tr> <td align="center"><img src="docs/screenshots/notes-stickers.png" width="300"><br><sub>Цветные заметки и стикеры</sub></td> <td align="center"><img src="docs/screenshots/bulk-config.png" width="300"><br><sub>Массовый конфиг</sub></td> </tr> </table>
 ---
 
 ## Installation
