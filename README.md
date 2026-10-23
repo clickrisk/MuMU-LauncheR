@@ -69,12 +69,50 @@ If you run more than a handful of MuMuPlayer instances, you know the pain: open 
 
 ---
 
-## Screenshots
+## Download
 
-<table> <tr> <td align="center"><img src="docs/screenshots/main-dark.png" width="300"><br><sub>Главное окно, тёмная тема</sub></td> <td align="center"><img src="docs/screenshots/main-light.png" width="300"><br><sub>Светлая тема</sub></td> </tr> <tr> <td align="center"><img src="docs/screenshots/notes-stickers.png" width="300"><br><sub>Цветные заметки и стикеры</sub></td> <td align="center"><img src="docs/screenshots/bulk-config.png" width="300"><br><sub>Массовый конфиг</sub></td> </tr> </table>
+Grab the latest build from **[Releases](../../releases/latest)**. No Python needed, just download and run:
+
+| Platform | File | How to start |
+|---|---|---|
+| 🪟 **Windows** | `MuMU-LauncheR-v*-windows.exe` | Run the `.exe` |
+| 🍎 **macOS** | `MuMU-LauncheR-v*-macos.zip` | Unzip, then open the `.app` |
+
+MuMuPlayer Pro must be installed on your machine.
+
+<details>
+<summary><b>⚠️ "Windows protected your PC" or "app can't be opened"?</b></summary>
+
+The builds are not code-signed, so the OS shows a warning on first launch. This is normal for open-source apps without a paid certificate.
+
+- **Windows:** click **More info → Run anyway**
+- **macOS:** right-click the app → **Open** → **Open** (or System Settings → Privacy & Security → **Open Anyway**)
+
+Don't want to trust a binary? Run it from source, the whole project is open (see below).
+</details>
+
+Prefer running from source? See [Run from source](#run-from-source).
+
 ---
 
-## Installation
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/main-dark.png" width="300"><br><sub>Main window, dark theme</sub></td>
+    <td align="center"><img src="docs/screenshots/main-light.png" width="300"><br><sub>Light theme</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/notes-stickers.png" width="300"><br><sub>Color notes and stickers</sub></td>
+    <td align="center"><img src="docs/screenshots/bulk-config.png" width="300"><br><sub>Bulk config for all profiles</sub></td>
+  </tr>
+</table>
+
+---
+
+## Run from source
+
+For developers, or if you'd rather not use the prebuilt binaries.
 
 **Requirements:** Python 3.9+ and [MuMuPlayer Pro](https://www.mumuplayer.com/) installed.
 
