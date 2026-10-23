@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs (бинарники не коммитим в git)
+build/
+dist/
+*.exe
+*.spec
+*.app
+*.dmg
+*.zip
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# App config
+config.json
